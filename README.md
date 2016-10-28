@@ -4,6 +4,7 @@
 
 ### 微信公众平台• 小程序开发简易手册
 
-###资源群：133138932
+------
+该官方文档副本由http://wxopen.notedown.cn/分享，谢谢！  
+gitthub: https://github.com/Notedown-cn/wxopen   
 
-以上文档收集于网络，只为开发者更方便，如果有侵犯，请联系删除。
