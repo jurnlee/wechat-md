@@ -5,6 +5,6 @@
 ### 微信公众平台• 小程序开发简易手册
 
 ------
-该官方文档副本由http://wxopen.notedown.cn/分享，谢谢！  
+该官方文档副本由 http://wxopen.notedown.cn/ 分享，谢谢！  
 gitthub: https://github.com/Notedown-cn/wxopen   
 
